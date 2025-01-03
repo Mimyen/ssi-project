@@ -1,1 +1,7 @@
 customtkinter
+pandas
+scipy
+matplotlib
+statsmodels
+seaborn
+scikit-learn
